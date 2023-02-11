@@ -1,0 +1,83 @@
+.row1 {
+    text-align: right;
+    background-color: black;
+    color: white;
+}
+
+.heroimg {
+    width: 100%;
+}
+
+.navul {
+    list-style-type: none;
+    margin: 0;
+    padding: 20px;
+    text-align: center;
+    background-color: teal;
+}
+
+li {
+    display: inline;
+    margin: 10px;
+}
+
+li a {
+    display: inline-block;
+    color: white;
+    text-align: center;
+    padding: 14x 16x;
+    text-decoration: none;
+}
+
+.middle {
+    text-align: center;
+}
+
+.middle-column1, .middle-column2, .middle-column3, .middle-column4 {
+    display: flex;
+
+}
+
+.midimg {
+    width: 25%;
+}
+
+.midp {
+    width: 30%;
+}
+
+.jargonrow {
+    display: inline-block;
+}
+
+.jargonrow > h4 {
+    display: inline-block;
+}
+
+.jargonh4s > h4 {
+    display: inline-block;
+    padding: 20px;
+}
+
+.jargonimages > img {
+    padding: 20px;
+}
+
+.jargon {
+    background-color:rgb(177, 135, 96);
+    text-align: center;
+}
+
+.abovefooter {
+    background-color:antiquewhite;
+    text-align: center;
+}
+.abovefooterh2 {
+    max-width: 40%;
+    display: inline-block;
+}
+
+.abovefooterform {
+    max-width: 40%;
+    display: inline-block;
+}
